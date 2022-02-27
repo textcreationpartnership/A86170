@@ -1,0 +1,487 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Haslerig &amp; Vain or, A dialogue between them at their several conference in the Tower of London, being a lamentation of both their vile actions which was formerly committed by them, with all their damnable plots, against the late King Charles after their apprehending. Together with their contrivance against this famous City of London, and now cursing their miserable condition expecting every day for their tryall.  / By T.H,.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86170</idno>
+            <idno type="STC">Wing H136</idno>
+            <idno type="STC">Thomason E1849_2</idno>
+            <idno type="STC">ESTC R209716</idno>
+            <idno type="EEBO-CITATION">99868583</idno>
+            <idno type="PROQUEST">99868583</idno>
+            <idno type="VID">170462</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86170)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170462)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 230:E1849[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Haslerig &amp; Vain or, A dialogue between them at their several conference in the Tower of London, being a lamentation of both their vile actions which was formerly committed by them, with all their damnable plots, against the late King Charles after their apprehending. Together with their contrivance against this famous City of London, and now cursing their miserable condition expecting every day for their tryall.  / By T.H,.</title>
+               </titleStmt>
+               <extent>[4], 8, [4] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Gilbertson.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint date from Wing.</note>
+                  <note>A dialogue; verse at end. Not in fact by Hasilrige and Vane, but a satire.</note>
+                  <note>Annotation on Thomason copy: "July 25. 1660".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hesilrige, Arthur, --  Sir, d. 1661 --  Early works to 1800.</term>
+               <term>Vane, Henry, --  Sir, 1612?-1662 --  Early works to 1800.</term>
+               <term>Regicides --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:170462:1" rendition="simple:additions"/>
+Haſlerig &amp; Vain Or, A DIALOGUE Between them at their ſe<g ref="char:EOLhyphen"/>verall Conference in the Tower of London, being a Lamentation of both their vile actions which was former<g ref="char:EOLhyphen"/>ly committed by them, with all their damnable plots, againſt the late King Charles af<g ref="char:EOLhyphen"/>ter their apprehending.</p>
+            <p>Together with their contrivance againſt this famous City of London, and now curſing their miſerable condition expecting every day for their Tryall.</p>
+            <p>By <hi>T. H,</hi>
+            </p>
+            <p>London, Printed for <hi>William Gilbertſon.</hi>
+            </p>
+            <figure>
+               <figDesc>portrait of a man with a walking cane</figDesc>
+            </figure>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:170462:3"/>
+            <pb n="1" facs="tcp:170462:3"/>
+            <head>A DIALOGUE Between Sir Henry Vaine, And Sir Arthur Haſlerigge.</head>
+            <sp>
+               <speaker>Sir Henry Uaine,</speaker>
+               <p>
+                  <hi>SIr Arthur</hi> you are welcome.</p>
+            </sp>
+            <sp>
+               <speaker>Haſlerigge.</speaker>
+               <p>Not ſo welcome, for I had rather a gone ſick of the Pox to Durham, then have come well hither,</p>
+            </sp>
+            <sp>
+               <speaker>U.</speaker>
+               <p>I. ſo had I to, but wée fulfill now the Old Proverb, <hi>needs muſt goe as the Divell drives.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="2" facs="tcp:170462:4"/>
+               <speaker>H.</speaker>
+               <p>Then if needs muſt, I would the Divel had drove me farre enough off before I had come here to be hang'd like a Dogge.</p>
+            </sp>
+            <sp>
+               <speaker>U.</speaker>
+               <p>What hang'd Sir <hi>Arthur?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Why? doe you make ſo ſtrange of it? I knew long agoe that would be our end.</p>
+            </sp>
+            <sp>
+               <speaker>U.</speaker>
+               <p>Good, if you had told me ſo at <hi>Portſ<g ref="char:EOLhyphen"/>mouth,</hi> I would have ſeen you damn'd before you ſhould have dril'd me here again but the Proverb ſtill proves ſure. give the <hi>Divell his due,</hi> and to be hang'd is ours.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>I but ſir Henry, who would have thought of this a twelvemonth a goe.</p>
+            </sp>
+            <sp>
+               <speaker>U.</speaker>
+               <p>Thought of it, Faith ſir <hi>Arthur</hi> too many for our ſakes as I heare ſince, for the Dive<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l a one was for us at laſt, but the Hang-man and the Halter.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>
+                  <hi>I</hi> ſir Henry, and thoſe ſtick cloſe to us now.</p>
+            </sp>
+            <sp>
+               <speaker>U.</speaker>
+               <p>Too cloſe I am afraid, for I dream'd to night I was going to ride on a Now Hurdle.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Did you but dream it? gad <hi>I</hi> know it, yet they ſay often-times dreames fall out to contraries, but they are more liker to prove true now.</p>
+            </sp>
+            <sp>
+               <speaker>U.</speaker>
+               <p>Why doe you think ſo ſir <hi>Arthur</hi>?</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Think ſo. The very boyes in the ſtreets
+<pb n="3" facs="tcp:170462:4"/>
+give ſentence on us already.</p>
+            </sp>
+            <sp>
+               <speaker>U.</speaker>
+               <p>Why doe all people hate us ſo, worſe then T<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ade?</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Ile tell you, The Divell was ne'r agen us more.</p>
+            </sp>
+            <sp>
+               <speaker>U.</speaker>
+               <p>No, becauſe he was alwayes for us, till now at laſt that he brought us here, and now he leaves us to ſhift for our ſelves.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>I ſir Henry, but that's a ſorry ſhift now. he could bring us in, but he cannot bring us out, wee have ſtronger Gates to pull downe now then wee had about the City, though wee ventur'd our necks for't,</p>
+            </sp>
+            <sp>
+               <speaker>U.</speaker>
+               <p>A venter doe you call it, venter comes of with hazard, but wée are not like to come off at all.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>So, ſo, Now you begin to lay all the fault in me.</p>
+            </sp>
+            <sp>
+               <speaker>U.</speaker>
+               <p>Lay all the fau't in you was it not long of your h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir-brain with a horſe-pox to you that wrought all the Calamities when you quarreld with <hi>Lambert.</hi> that Cut-throat Hanniball which was alwayes for his owne ends, as well as wée were. I would have given him one thouſand pound more ſurely to be quiet, though I had took if from the Wid<g ref="char:EOLhyphen"/>dowes and the Fatherleſſe, but betw'xt you both, he after Authority and you after Mony,
+<pb n="4" facs="tcp:170462:5"/>
+the Divell give yée enough brought all theſe ſorrows: Wée that were counted the Su<g ref="char:EOLhyphen"/>Preem Authority and chief of the Nations, are now ſcoff'd, ſcorn'd and derided by all good and ſober-minded people, bearing our deſerved Names worſe then Infidels, and tendred as odious as our actions are infamous and that's baſe enough of all conſcience, and all our horrid Uillanies daſh in our Faces every day, termed Rumpers. Hypocrites, and Hanniballs, while wée are tyed here by the necks like wolvs in Chains, enough to vex any Dogge alive.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Come come ſir Henry be not ſo wrath<g ref="char:EOLhyphen"/>full and outragious, you and I have gone hand in hand theſe many years, under (the good Old Cauſe) in Fraud, Deceit and Per<g ref="char:EOLhyphen"/>jury, like two Olive Branches, ſpreading our Vines and Clawes on any good and honeſt mans eſtate, and venters our ſouls fort as few as any two alive, and lived together as two friends in a juſt and Lagall, Reprobate condition therefore pray fall not out with me now at the laſt caſte, but be patient and content.</p>
+            </sp>
+            <sp>
+               <speaker>U.</speaker>
+               <p>P<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tient and content ſir <hi>Arthur.</hi> th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t I cannot be ſo long as I am alive, and that will not be long I am ſure,</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:170462:5"/>
+               <speaker>H,</speaker>
+               <p>Well come ſir Henry lets take a turne or two and walke a little,</p>
+            </sp>
+            <sp>
+               <speaker>U.</speaker>
+               <p>A turn ſir <hi>Arthur</hi> wée ſhall take our turnes too ſoon I am afraid,</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Afraid ſir Henry, I was never afraid in my life, neither of ſoule nor body, for if I. had I'de nere done what <hi>I</hi> did.</p>
+            </sp>
+            <sp>
+               <speaker>U.</speaker>
+               <p>The Divel was in us when wée left <hi>Portſmouth,</hi> for had wee ſtaid there wee had done as good miſchief as wee did here.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>I but ſir Henry I did alwayes yaune after Authority you know, that by my conſent I'd have nothing done in heaven or in hell, but that I would know of it.</p>
+            </sp>
+            <sp>
+               <speaker>U.</speaker>
+               <p>I but ſir <hi>Arthur</hi> how did you intend to Govern had you ſate upon your Throne of wickedneſſe?</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>O very well for I would have tollera<g ref="char:EOLhyphen"/>ted all ſorts of Religion, had there beene ſixteen times as many more.</p>
+            </sp>
+            <sp>
+               <speaker>U.</speaker>
+               <p>But how would you have paid the Army that held the ſword of Uengeance.</p>
+            </sp>
+            <sp>
+               <speaker>H,</speaker>
+               <p>I'd duble the Exciſe and Cuſtoms.</p>
+            </sp>
+            <sp>
+               <speaker>U.</speaker>
+               <p>But what if they could not pay it?</p>
+            </sp>
+            <sp>
+               <speaker>H</speaker>
+               <p>I'd then hang them at their doores.</p>
+            </sp>
+            <sp>
+               <speaker>U.</speaker>
+               <p>So you might have hangd them all,</p>
+            </sp>
+            <sp>
+               <speaker>H,</speaker>
+               <p>I had not car'd if all had bin hang'd ſo <hi>I</hi> might have rul'd alone.</p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:170462:6"/>
+               <speaker>U.</speaker>
+               <p>Truly and I had likt your wayes very well.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Nay ſir Henry I knew you could not miſlike that.</p>
+            </sp>
+            <sp>
+               <speaker>U,</speaker>
+               <p>But truly wee ſhould have burn'd the City at that time ſir <hi>Arthur.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Was not I preparing as faſt as I could to doe it?</p>
+            </sp>
+            <sp>
+               <p>O ſir Arthur ſir Arthur wee had accom<g ref="char:EOLhyphen"/>pliſht our deſignes had not that Parliament Transactor appeard out of Scotland at whoſe apperition my very knees did ſmite againſt each other worſe then Belſhazers did at the writing Menetickel.</p>
+            </sp>
+            <sp>
+               <p>I, I ſir <hi>Henry</hi> I knew he was hungry, lingring for a King, like a Lyon roaring for a prey</p>
+            </sp>
+            <sp>
+               <p>But why did not you bribe him?</p>
+            </sp>
+            <sp>
+               <p>O ſir <hi>Henry,</hi> I would have don <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t but I found that mony would no more choke him then all the Oaths would me,</p>
+            </sp>
+            <sp>
+               <p>And indeed ſir Arthur you could ſweare luſtily.</p>
+            </sp>
+            <sp>
+               <p>I and can ſtill ſir <hi>Henry</hi> for thirty thouſand a Yeare.</p>
+            </sp>
+            <sp>
+               <p>Thats a brave eſtate ſir Arthur, but now you muſt part with it.</p>
+            </sp>
+            <sp>
+               <p>Truly ſir <hi>Henry</hi> I would as willingly keep
+<pb n="7" facs="tcp:170462:6"/>
+it as the right owners are to take it.</p>
+            </sp>
+            <sp>
+               <p>But ſir Arthur would you accept of a Col<g ref="char:EOLhyphen"/>liers place at New-Caſtle?</p>
+            </sp>
+            <sp>
+               <p>I as God Iidge my ſoul would I, any thing in the world to ſave my life.</p>
+            </sp>
+            <sp>
+               <p>Then you are ſure to dye ſir Arthur?</p>
+            </sp>
+            <sp>
+               <p>I would I was ſo ſure to live.</p>
+            </sp>
+            <sp>
+               <p>But what if you ſhould P<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tition ſir Arthur to be hangd at Durham.</p>
+            </sp>
+            <sp>
+               <p>I would be glad with all my heart ſir <hi>Henry</hi> for then my eſtate and I ſhould never depart.</p>
+            </sp>
+            <sp>
+               <p>I but ſir Arthur they will not trouble themſelves to ſend you thither.</p>
+            </sp>
+            <sp>
+               <p>But what if Lambert would take a bribe and be hang'd for you there.</p>
+            </sp>
+            <sp>
+               <p>Ah never talke of that ſir <hi>Henry,</hi> for I ve<g ref="char:EOLhyphen"/>rily beleeve he had as live ſee me hangd as himſelfe.</p>
+            </sp>
+            <sp>
+               <p>But what if you did ranſome your ſelfe with your eſtate.</p>
+            </sp>
+            <sp>
+               <p>No, no ſir <hi>Henry</hi> I had rather give my life for my eſtate firſt, but I ſhall looſe both it ſeemes.</p>
+            </sp>
+            <sp>
+               <p>Then what ſhall wee ſay ſir Arthur, let us ſit down in ſorrow all the day long:</p>
+            </sp>
+            <sp>
+               <p>Nay I beleeve our Dayes will not be much longer,
+<pb n="8" facs="tcp:170462:7"/>
+Lambert, Lambert the Author of our miſery Curſt be the day that e'r he came our ſociety</p>
+            </sp>
+            <sp>
+               <p>Nay ſir Henry lets not curſe one another, For <hi>I</hi> think wee are eurſed altogether.</p>
+            </sp>
+            <sp>
+               <p>But as for you and I wée have liv'd too Rebrobate in brotherly Union, like ſonnes of Perdition theſe twenty yeares and odde, and as wée have liv'd together ſo let us hang together. and there is an end of the ſtory.</p>
+            </sp>
+         </div>
+         <div type="epitaph">
+            <pb facs="tcp:170462:7"/>
+            <head>An Epitaph upon ſir Ar<g ref="char:EOLhyphen"/>thur Haſlerigge, and ſir Henry Uaine.</head>
+            <lg>
+               <l>Here lyes the body of Haſlerigge the late</l>
+               <l>Grand Traytor to'r King both Church &amp; ſtate</l>
+               <l>Moſt impious villain tyrannized o're</l>
+               <l>Three ſtately Kingdoms 20 years &amp; more.</l>
+               <l>Murder'd his Prince &amp; all his honours blaſt.</l>
+               <l>For which due recompence wil hang at laſt.</l>
+            </lg>
+            <lg>
+               <l>Here lyes the body of Henry Uaine we know</l>
+               <l>Was traytor both to King and Country too.</l>
+               <l>Reproach and baſenes he'l bring to his grave</l>
+               <l>He liv'd like a Tyrant and dy'd like a knave.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:170462:8"/>
+               <l>NOw wee are captivitated from all liberty,</l>
+               <l>For our Treachery,</l>
+               <l>our high exalting power hath a fall.</l>
+               <l>The records they wil tel them what we've do<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> late</l>
+               <l>'Gainſt Church and State.</l>
+               <l>our actions will appear before them all.</l>
+               <l>Which then will render us as odious</l>
+               <l>as the tongue of man can tell,</l>
+               <l>Therefore let wee prepare to dye,</l>
+               <l>and bid the world farewell.</l>
+            </lg>
+            <lg>
+               <l>The big'ſt Record in <hi>Urope</hi> is not half ſo large,</l>
+               <l>As may diſcharge,</l>
+               <l>the volum of out actions which will be</l>
+               <l>Nor can the learned Authors gather to a ſum</l>
+               <l>What wee have done,</l>
+               <l>though twill be ſeen in roles of infamy</l>
+               <l>For Generations they will ſpread</l>
+               <l>this ſtory o're all the world,</l>
+               <l>That future times may read in lines,</l>
+               <l>what deeds were done of old.</l>
+            </lg>
+            <lg>
+               <l>So farewell all Comits wee ſhall never act.</l>
+               <l>Nor yet exact</l>
+               <l>in Uoting up the Cuſtoms or Excize,</l>
+               <l>The ſelling of the timber in <hi>New Forreſt Wood,</hi>
+               </l>
+               <l>Will coſt our blood,</l>
+               <pb facs="tcp:170462:8"/>
+               <l>we ne'r ſhal com again to make a prize</l>
+               <l>wee've chang'd our houſe of Parliament</l>
+               <l>and in the Tower now doth dwell,</l>
+               <l>But do not think our lodgings in't</l>
+               <l>is halfe ſo good as hell.</l>
+            </lg>
+            <lg>
+               <l>Now let all Traytors take a preſident by wée,</l>
+               <l>Where e're they be,</l>
+               <l>and know Rebellion is a dangerous thing,</l>
+               <l>Let Peaſants not be Princes but obey the Law,</l>
+               <l>And ſtand in awe,</l>
+               <l>of ſuch a ſwéet &amp; gracious loving King.</l>
+               <l>But always ſtudy more obedience</l>
+               <l>in your walking up and down,</l>
+               <l>Doe not conteſt nor in the leaſt</l>
+               <l>provoke him to a frown.</l>
+            </lg>
+            <lg>
+               <l>Thrice happy worthy Subjects you are in this King</l>
+               <l>Make much of him,</l>
+               <l>and render praiſes to the God on high.</l>
+               <l>Which hath ordain'd him for you 'twas y<hi rend="sup">e</hi> Lords com<g ref="char:EOLhyphen"/>mand,</l>
+               <l>That he ſhould ſtand</l>
+               <l>to be a King in glorious Majeſty.</l>
+               <l>And wée doe councel and adviſe you</l>
+               <l>ne<g ref="char:punc">▪</g>r bring your King in thrall,</l>
+               <l>But faithfull be to his Majeſty,</l>
+               <l>ſo God will bleſſe you all.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:170462:9" rendition="simple:additions"/>
+            <trailer>
+               <figure>
+                  <figDesc>portrait of a man with a sword</figDesc>
+               </figure>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
